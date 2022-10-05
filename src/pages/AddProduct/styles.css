@@ -1,0 +1,34 @@
+.container-add-product {
+  display: flex;
+
+  width: 100%;
+
+  align-items: flex-start;
+  padding-bottom: 32px;
+  flex-direction: column;
+  min-height: calc(100vh - 190px);
+}
+
+.content-form {
+  display: flex;
+  width: 400px;
+  flex-direction: column;
+}
+
+.container-button {
+  width: 400px;
+}
+
+.container-button button {
+  margin-right: 24px;
+}
+
+.content-price-stock {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.form {
+  width: 100%;
+}

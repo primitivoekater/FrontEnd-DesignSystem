@@ -1,0 +1,27 @@
+.container-main {
+  min-height: calc(100vh - 140px);
+  width: 100%;
+}
+
+.btn-add {
+  width: 200px;
+  font-size: 14px;
+  height: 36px;
+}
+
+.content-action {
+  width: 100%;
+  margin-bottom: 16px;
+  display: flex;
+}
+
+.content-products {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  gap: 24px;
+  width: 100%;
+  max-width: 1300px;
+  margin: 40px 0px;
+}
